@@ -1,0 +1,44 @@
+.puzzles{
+    align-items: center;
+    text-align: center;
+    justify-content: space-between;
+    width: 750px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.button{
+    width: 180px;
+    height: 30px;
+    border: 2px solid violet;
+    cursor: pointer;
+    background: rgba(228, 166, 166, 0.1);
+    font-size: 20px;
+    border-radius: 40px;
+    color: #d8b2e6;
+}
+p{
+    width: 750px;
+    height: 20px;
+    color: #702fac;
+}
+.text{
+font-size: 20px;
+}
+h1{
+    color: rgb(128, 115, 45);
+}
+.close{
+    display: none;
+}
+.open{
+    width: max-content;
+    display: block;
+    color: #b0e4b4;
+    font: 1.3em;
+    border-radius: 5px;
+    border: 1px solid violet;
+    margin: auto;
+    margin-bottom: 20px;
+    padding: 5px 10px;
+}
